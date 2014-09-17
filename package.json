@@ -1,0 +1,30 @@
+{
+  "name": "email-constituent-domain-stats",
+  "version": "1.0.0",
+  "description": "read csv data",
+  "main": "read.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "read",
+    "csv",
+    "data"
+  ],
+  "author": "Ryan Rankin",
+  "license": "MIT",
+  "devDependencies": {
+    "fast-csv": "^0.5.2"
+  },
+  "dependencies": {
+    "fast-csv": "^0.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rrankin-at-dfwworld-dot-org/email-constituent-domain-stats.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rrankin-at-dfwworld-dot-org/email-constituent-domain-stats/issues"
+  },
+  "homepage": "https://github.com/rrankin-at-dfwworld-dot-org/email-constituent-domain-stats"
+}
