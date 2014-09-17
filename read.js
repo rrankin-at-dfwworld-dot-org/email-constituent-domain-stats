@@ -1,7 +1,8 @@
 var fs = require('fs');
 var csv = require("fast-csv");
+var data = ("data/example.csv");
 
-var stream = fs.createReadStream("09-16-2014-email-results.csv");
+var stream = fs.createReadStream(data);
 var count = {
     gmail: 0,
     yahoo: 0,
